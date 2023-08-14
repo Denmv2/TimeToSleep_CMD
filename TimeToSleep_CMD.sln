@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeToSleep_CMD", "TimeToSleep_CMD\TimeToSleep_CMD.vcxproj", "{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Debug|x64.ActiveCfg = Debug|x64
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Debug|x64.Build.0 = Debug|x64
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Debug|x86.Build.0 = Debug|Win32
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Release|x64.ActiveCfg = Release|x64
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Release|x64.Build.0 = Release|x64
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Release|x86.ActiveCfg = Release|Win32
+		{A5883A7E-1BFD-4FC0-8779-CCC3E76877FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B500AFBF-2BAC-4B36-9EC5-78B14408A3FD}
+	EndGlobalSection
+EndGlobal
