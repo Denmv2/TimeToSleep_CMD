@@ -34,7 +34,7 @@ public:
 	void PrintMessage(string Msg, bool Err = false, DWORD Sec = 1); // Print message in CMD for user
 
 
-	static void SetConsoleInfo(); // Ssave current CMD info
+	static void SetConsoleInfo(); // Save current CMD info
 
 	static WORD GetConsoleInfo(); // Get saved CMD info
 
